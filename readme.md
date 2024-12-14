@@ -143,8 +143,6 @@ completed | Bool	 | Whether the habit was completed on that date|
 ### Milestone 4: Login and Add/Edit Page
 ![LogandsigninAddEditHabit-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/748b97a3-ad27-4349-9653-bf14738078e4)
 
-## Youtube Link
-https://youtu.be/JMpFCAEe4Fc
 
 ### Networking
 
